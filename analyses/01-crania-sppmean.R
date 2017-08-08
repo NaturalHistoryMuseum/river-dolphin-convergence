@@ -81,8 +81,8 @@ two.d.coords <- two.d.array(gpa$coords)
 
 # Aggregate by species, and remove the species from the 
 # output columns, then add back in as row names
-species.means <- aggregate(two.d.coords ~ mydata$species, FUN = mean)[,-1]
-rownames(species.means) <- levels(mydata$species)
+species.means <- aggregate(two.d.coords ~ ordered.data$species, FUN = mean)[,-1]
+rownames(species.means) <- levels(ordered.data$species)
 
 # Make species.means into a 3D array again
 mean.coords <- arrayspecs(species.means, dim(gpa$coords)[1], dim(gpa$coords)[2])
@@ -117,7 +117,7 @@ whaletree <- drop.tip(odonto, check$tree_not_data)
 # Add phylogeny to dataset
 gdf <- geomorph.data.frame(coords = species.data$coords,
                            phy = whaletree,
-                           group = speciesdata$river)
+                           group = species.data$river)
 
 #-------------------------------------------------
 # Calculate phylogenetic signal (multivariate K)
@@ -126,7 +126,7 @@ gdf <- geomorph.data.frame(coords = species.data$coords,
 #-------------------------------------------------
 phy1 <- physignal(species.data$coords, whaletree)
 summary(phy1)
-# k = 1.1412 
+# K = 1.1412 
 # p-value = 0.001
 
 #------------------------------------------------------
@@ -165,22 +165,10 @@ barplot(pca.lands$pc.summary$sdev^2 /
 # Eigenvectors
 pca.lands$rotation
 
-
-$$$$$$
-# Write a csv file of PC coefficients
-
-#write.csv(pca.lands$rotation, file = "PCscores.csv")
-
-#pca.lands$pc.summary
-
-#pca.lands$summary$stdev ^ 2
-$$$$$
-
-
 # Create dataframe for further analysis
 pc.scores <- data.frame(pca.lands$pc.scores,
-                        species = speciesdata$species,
-                        river = speciesdata$river)
+                        species = species.data$species,
+                        river = species.data$river)
 
 #--------------------------------------------------------
 # Phylogenetic ANOVAs to test whether individual PCs
