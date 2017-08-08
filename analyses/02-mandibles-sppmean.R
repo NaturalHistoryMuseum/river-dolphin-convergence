@@ -1,5 +1,5 @@
 #--------------------------------------------------------------
-# Geometric morphometric analyses of species mean cranium data
+# Geometric morphometric analyses of species mean mandible data
 # Charlotte Page 2017
 # Modified by Natalie Cooper 2017
 
@@ -122,7 +122,7 @@ gdf <- geomorph.data.frame(coords = species.data$coords,
 #-------------------------------------------------
 # Calculate phylogenetic signal (multivariate K)
 # to test whether there is phylogenetic signal in
-# skull shape of the species
+# mandible shape of the species
 #-------------------------------------------------
 phy1 <- physignal(species.data$coords, whaletree)
 summary(phy1)
