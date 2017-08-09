@@ -15,8 +15,6 @@
 # to see which PCs are significantly different
 # Stayton's distance-based metric
 
-i. Phenetic trees (see other R script)
-
 #-------------------------------------
 # Setup
 #-------------------------------------
@@ -87,7 +85,7 @@ rownames(species.means) <- levels(ordered.data$species)
 # Make species.means into a 3D array again
 mean.coords <- arrayspecs(species.means, dim(gpa$coords)[1], dim(gpa$coords)[2])
 
-# Sort dataset by the order of specimens in the species means array
+# Sort dataset by the order of species in the species means array
 mydata <- ds[match(dimnames(mean.coords)[[3]], ds$species), ]
 
 # Put it all together for further analyses
