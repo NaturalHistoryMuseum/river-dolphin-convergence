@@ -134,7 +134,7 @@ LM=20
 33.627568 9.240774
 64.736472 39.260526
 64.617346 24.233632
-ID=Grampus_griseus_SW1927.25_skull_ventral.tiff
+ID=Grampus_griseus_SW.1927.25_skull_ventral.tiff
 
 LM=20
 70.875996 26.6628
@@ -157,7 +157,7 @@ LM=20
 26.58438 6.446124
 56.242824 33.218712
 56.211456 20.70288
-ID=Grampus_griseus_SW1929-7_skull_ventral.tiff
+ID=Grampus_griseus_SW.1929.7_skull_ventral.tiff
 
 LM=20
 75.00636 25.19388
@@ -180,7 +180,7 @@ LM=20
 27.51192 4.28076
 60.04908 33.5016
 59.74452 19.27188
-ID=Grampus_griseus_SW1933-14_skull_ventral.tiff
+ID=Grampus_griseus_SW.1933.14_skull_ventral.tiff
 
 LM=20
 78.608111 29.302009
@@ -203,7 +203,7 @@ LM=20
 29.590448 3.546103
 62.472494 37.802476
 63.405679 21.480222
-ID=Grampus_griseus_SW1938-7_skull_ventral.tiff
+ID=Grampus_griseus_SW.1938.7_skull_ventral.tiff
 
 LM=20
 73.650408 30.071516
@@ -226,7 +226,7 @@ LM=20
 27.76694 17.780444
 54.109524 32.552136
 54.477616 28.96724
-ID=Inia_geoffrensis_1169.b_skull_ventral.tiff
+ID=Inia_geoffrensis_GERM 1169b_skull_ventral.tiff
 
 LM=20
 75.286224 24.153532
@@ -318,7 +318,7 @@ LM=20
 27.339531 10.64787
 53.209356 28.554288
 52.909416 20.050989
-ID=Lagenorhynchus_acutus_1926-17_skull_ventral.tiff
+ID=Lagenorhynchus_acutus_SW.1926.17_skull_ventral.tiff
 
 LM=20
 61.881385 28.143835
@@ -341,7 +341,7 @@ LM=20
 25.777825 12.12215
 49.992915 33.0073
 50.15357 23.04669
-ID=Lagenorhynchus_acutus_SW.1929-25_skull_ventral.tiff
+ID=Lagenorhynchus_acutus_SW.1929.25_skull_ventral.tiff
 
 LM=20
 56.400195 27.755255
@@ -571,7 +571,7 @@ LM=20
 36.49914 19.5672
 48.11322 30.04512
 47.87652 24.03294
-ID=Neophocaena_phocaenoides_1889.8.6.1_skull_ventral.tiff
+ID=Neomeris_phocoenoides_1889.8.6.1_skull_ventral.tiff
 
 LM=20
 48.547275 21.819
@@ -594,7 +594,7 @@ LM=20
 34.863645 16.05255
 45.00948 24.15675
 44.76012 19.79295
-ID=Neophocaena_phocaenoides_1902.6.10.65_skull_ventral.tiff
+ID=Neomeris_phocoenoides_1902.6.10.65_skull_ventral.tiff
 
 LM=20
 48.42222 22.33791
@@ -617,7 +617,7 @@ LM=20
 34.46688 15.21975
 45.09729 24.80429
 45.05046 19.79348
-ID=Neophocaena_phocaenoides_1903.9.12.3_skull_ventral.tiff
+ID=Neomeris_phocoenoides_1903.9.12.3_skull_ventral.tiff
 
 LM=20
 72.327227 25.682202
@@ -640,7 +640,7 @@ LM=20
 21.448872 13.342829
 52.775514 28.833681
 52.775514 23.298994
-ID=Stenella_clymene_1882.1.2.1_skull_ventral.tiff
+ID=Sousa_plumbea_1882.1.2.1_skull_ventral.tiff
 
 LM=20
 59.024544 23.480352
@@ -663,7 +663,7 @@ LM=20
 30.733368 14.020536
 51.300744 27.276048
 50.991792 20.331984
-ID=Phocoenoides_dalli_1957.6.4.1_skull_ventral.tiff
+ID=Phocoena_dalli_1957.6.4.1_skull_ventral.tiff
 
 LM=20
 69.157275 23.402526
@@ -686,7 +686,7 @@ LM=20
 45.947058 14.290038
 62.559597 26.864088
 62.648355 20.636235
-ID=Phocoenoides_dalli_1965.1.19.2_skull_ventral.tiff
+ID=Phocoena_dalli_1965.1.19.2_skull_ventral.tiff
 
 LM=20
 52.900674 27.025657
@@ -709,7 +709,7 @@ LM=20
 31.239876 18.12258
 46.356409 29.398852
 46.644069 24.580547
-ID=Phocoena_phocoena_SW.1928-49_skull_ventral.tiff
+ID=Phocoena_phocoena_SW.1928.49_skull_ventral.tiff
 
 LM=20
 80.286621 28.005834
@@ -801,7 +801,7 @@ LM=20
 23.877436 10.620071
 48.889192 21.622975
 49.357099 19.793884
-ID=Platanista_gangetica_334.A_skull_ventral.tiff
+ID=Platanista_gangetica_GERM 334a_skull_ventral.tiff
 
 LM=20
 66.47078 24.304044
@@ -870,7 +870,7 @@ LM=20
 23.56716 13.95312
 44.83716 20.97222
 44.90806 19.32734
-ID=Pontoporia_blainvillei_39.4529_skull_ventral.tiff
+ID=Pontoporia_blainvillei_1939.4529_skull_ventral.tiff
 
 LM=20
 69.23124 24.068211
@@ -939,7 +939,7 @@ LM=20
 28.838515 11.920908
 49.907682 27.518912
 49.996644 20.995032
-ID=REP1_Tursiops_aduncus_70.1512_skull_ventral.tiff
+ID=REP1_Tursiops_aduncus_1970.1512_skull_ventral.tiff
 
 LM=20
 71.335251 29.983761
@@ -985,7 +985,7 @@ LM=20
 23.073996 15.685308
 52.691364 33.34302
 53.30187 27.31623
-ID=Stenella_clymene_1948.3.13.2_skull_ventral.tiff
+ID=Sousa_plumbea_1948.3.13.2_skull_ventral.tiff
 
 LM=20
 70.70424 27.985144
@@ -1008,7 +1008,7 @@ LM=20
 22.896936 14.35936
 51.912208 30.0454
 52.505312 24.66064
-ID=Stenella_clymene_1954.9.9.5_skull_ventral.tiff
+ID=Sousa_plumbea_1954.9.9.5_skull_ventral.tiff
 
 LM=20
 67.74235 26.076999
@@ -1031,7 +1031,7 @@ LM=20
 19.561555 13.837707
 50.433799 29.608735
 50.205454 23.473866
-ID=Stenella_clymene_1992.92_skull_ventral.tiff
+ID=Sousa_plumbea_1992.92_skull_ventral.tiff
 
 LM=20
 70.45626 27.282402
@@ -1054,7 +1054,7 @@ LM=20
 25.559793 16.062165
 53.292246 29.827518
 53.556069 24.473463
-ID=Stenella_clymene_1970.1509_skull_ventral.tiff
+ID=Sousa_plumbea_1970.1509_skull_ventral.tiff
 
 LM=20
 69.33465 25.562775
@@ -1146,7 +1146,7 @@ LM=20
 26.347365 12.21462
 49.65642 25.56477
 49.794525 20.761785
-ID=Stenella_attenuata_347.E_skull_ventral.tiff
+ID=Stenella_attenuata_1869.5.21.2_skull_ventral.tiff
 
 LM=20
 67.06882 25.731888
@@ -1169,7 +1169,7 @@ LM=20
 21.881496 13.992888
 50.728132 29.128372
 50.571612 22.507576
-ID=Stenella_coeruleoalba_1938.2.5.1_skull_ventral.tiff
+ID=Stenella_euphrosyne_1938.2.5.1_skull_ventral.tiff
 
 LM=20
 71.507472 22.510452
@@ -1192,7 +1192,7 @@ LM=20
 26.236104 11.067378
 56.74575 27.519732
 56.056974 20.146698
-ID=Stenella_coeruleoalba_1961.5.31.1_skull_ventral.tiff
+ID=Stenella_euphrosyne_1961.5.31.1_skull_ventral.tiff
 
 LM=20
 71.016568 22.565424
@@ -1215,7 +1215,7 @@ LM=20
 26.3578 11.282712
 55.70544 26.90856
 55.359248 20.346648
-ID=Stenella_coeruleoalba_S.W.194-1_skull_ventral.tiff
+ID=Stenella_euphrosyne_SW.1934.1_skull_ventral.tiff
 
 LM=20
 77.16555 24.365607
@@ -1238,7 +1238,7 @@ LM=20
 25.145057 9.072798
 57.819601 28.309624
 57.585766 20.998383
-ID=Steno_bredanensis_1949.1.7.2_skull_ventral.tiff
+ID=Steno_bradanensis_1949.1.7.2_skull_ventral.tiff
 
 LM=20
 70.785491 27.751395
@@ -1261,7 +1261,7 @@ LM=20
 21.999005 14.629727
 52.564407 31.156188
 52.424484 24.735277
-ID=Steno_bredanensis_1952.8.1.1_skull_ventral.tiff
+ID=Steno_bradanensis_1952.8.1.1_skull_ventral.tiff
 
 LM=20
 70.873368 28.602132
@@ -1284,7 +1284,7 @@ LM=20
 22.266908 13.73152
 52.164172 31.28602
 52.35142 25.216064
-ID=Steno_bredanensis_345.e_skull_ventral.tiff
+ID=Steno_bradanensis_GERM 345e_skull_ventral.tiff
 
 LM=20
 70.706565 25.233454
@@ -1307,7 +1307,7 @@ LM=20
 23.17993 14.343554
 53.422738 29.309388
 52.909357 23.693311
-ID=Steno_bredanensis_345f_skull_ventral.tiff
+ID=Steno_bradanensis_GERM 345f_skull_ventral.tiff
 
 LM=20
 73.465563 28.149042
@@ -1330,7 +1330,7 @@ LM=20
 22.384893 16.167735
 54.470427 32.007429
 54.20487 25.634061
-ID=Steno_bredanensis_1954.6.25.2_skull_ventral.tiff
+ID=Steno_bradanensis_1954.6.25.2_skull_ventral.tiff
 
 LM=20
 63.387126 23.870187
@@ -1560,7 +1560,7 @@ LM=20
 27.058196 2.78472
 46.237955 21.744022
 46.133528 13.053375
-ID=Delphinapterus_leucas_S.W.1932-60_skull_ventral.tiff
+ID=Delphinapterus_leucas_SW.1932.60_skull_ventral.tiff
 
 LM=20
 73.214604 23.810742
@@ -1606,7 +1606,7 @@ LM=20
 22.127558 6.455283
 53.590709 36.969626
 53.658481 22.229216
-ID=Grampus_griseus_SW1940-6_skull_ventral.tiff
+ID=Grampus_griseus_SW.1940.6_skull_ventral.tiff
 
 LM=20
 72.1525 26.7065
@@ -1698,7 +1698,7 @@ LM=20
 37.95924 21.29061
 51.84157 33.33726
 52.02186 27.91217
-ID=Phocoena_phocoena_SW.1933-50_skull_ventral.tiff
+ID=Phocoena_phocoena_SW.1933.50_skull_ventral.tiff
 
 LM=20
 86.083501 32.331749

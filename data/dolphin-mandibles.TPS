@@ -87,7 +87,7 @@ LM=10
 26.204745 14.043708
 48.237084 37.399005
 46.218725 20.912913
-ID=Grampus_griseus_SW1927.25_mandible_dorsal.tiff
+ID=Grampus_griseus_SW.1927.25_mandible_dorsal.tiff
 
 LM=10
 59.338602 26.147349
@@ -100,7 +100,7 @@ LM=10
 21.965031 14.984019
 42.263424 35.250966
 40.533894 21.178881
-ID=Grampus_griseus_SW1929-7_mandible_dorsal.tiff
+ID=Grampus_griseus_SW.1929.7_mandible_dorsal.tiff
 
 LM=10
 63.503738 28.401084
@@ -113,7 +113,7 @@ LM=10
 22.785338 14.913114
 45.027764 39.734372
 42.991844 22.293324
-ID=Grampus_griseus_SW1933-14_mandible_dorsal.tiff
+ID=Grampus_griseus_SW.1933.14_mandible_dorsal.tiff
 
 LM=10
 69.01338 27.184
@@ -126,7 +126,7 @@ LM=10
 24.85637 11.92698
 48.99916 38.87312
 46.94337 19.89529
-ID=Grampus_griseus_SW1938-7_mandible_dorsal.tiff
+ID=Grampus_griseus_SW.1938.7_mandible_dorsal.tiff
 
 LM=10
 66.59712 29.93148
@@ -139,7 +139,7 @@ LM=10
 27.072 16.93692
 48.61116 40.11732
 46.93608 23.67108
-ID=Grampus_griseus_SW1940-6_mandible_dorsal.tiff
+ID=Grampus_griseus_SW.1940.6_mandible_dorsal.tiff
 
 LM=10
 65.1348 25.270704
@@ -152,7 +152,7 @@ LM=10
 21.242736 16.335648
 42.83712 27.940032
 42.501456 23.65632
-ID=Inia_geoffrensis_1169.b_mandible_dorsal.tiff
+ID=Inia_geoffrensis_GERM 1169b_mandible_dorsal.tiff
 
 LM=10
 66.125808 29.474496
@@ -204,7 +204,7 @@ LM=10
 21.275273 17.402964
 38.767943 32.727739
 38.439021 23.069393
-ID=Lagenorhynchus_acutus_1926-17_mandible_dorsal.tiff
+ID=Lagenorhynchus_acutus_1926.17_mandible_dorsal.tiff
 
 LM=10
 53.362296 27.976632
@@ -217,7 +217,7 @@ LM=10
 18.41334 20.334732
 36.797568 34.192044
 35.895096 24.555972
-ID=Lagenorhynchus_acutus_SW.1929-25_mandible_dorsal.tiff
+ID=Lagenorhynchus_acutus_SW.1929.25_mandible_dorsal.tiff
 
 LM=10
 53.47888 27.47472
@@ -295,7 +295,7 @@ LM=10
 21.33936 17.04185
 37.077138 29.48981
 36.60293 20.657686
-ID=Lagenorynchus_australis_1961.6.12.1_mandible_dorsal.tiff
+ID=Lagenorhynchus_australis_1961.6.12.1_mandible_dorsal.tiff
 
 LM=10
 71.06532 26.321688
@@ -360,7 +360,7 @@ LM=10
 35.538156 18.795114
 42.269574 27.43869
 42.12966 21.68667
-ID=Neophocaena_phocaenoides_1902.6.10.25_mandible_dorsal.tiff
+ID=Neomeris_phocoenoides_1902.6.10.65_mandible_dorsal.tiff
 
 LM=10
 53.75775 22.67685
@@ -373,7 +373,7 @@ LM=10
 39.6258 18.85825
 47.9516 26.7928
 46.90305 20.67365
-ID=Neophocaena_phocaenoides_1903.9.12.3_mandible_dorsal.tiff
+ID=Neomeris_phocoenoides_1903.9.12.3_mandible_dorsal.tiff
 
 LM=10
 64.9386 26.0838
@@ -386,7 +386,7 @@ LM=10
 16.84224 17.7246
 40.96008 29.69064
 40.61952 23.35932
-ID=Stenella_clymene_1882.1.2.1_mandible_dorsal.tiff
+ID=Sousa_plumbea_1882.1.2.1_mandible_dorsal.tiff
 
 LM=10
 54.936036 23.911956
@@ -399,7 +399,7 @@ LM=10
 27.95094 17.41446
 42.29226 29.41434
 41.399586 20.868084
-ID=Phocoenoides_dalli_1957.6.4.1_mandible_dorsal.tiff
+ID=Phocoena_dalli_1957.6.4.1_mandible_dorsal.tiff
 
 LM=10
 56.944696 25.940164
@@ -412,7 +412,7 @@ LM=10
 33.507272 19.28582
 45.888474 30.459818
 45.255428 22.89271
-ID=Phocoenoides_dalli_1965.1.19.2_mandible_dorsal.tiff
+ID=Phocoena_dalli_1965.1.19.2_mandible_dorsal.tiff
 
 LM=10
 45.026597 22.884757
@@ -438,7 +438,7 @@ LM=10
 29.97478 17.196058
 39.712998 28.784394
 39.913786 21.570368
-ID=Phocoena_phocoena_SW.1928-49_mandible_dorsal.tiff
+ID=Phocoena_phocoena_SW.1928.49_mandible_dorsal.tiff
 
 LM=10
 56.139264 19.849644
@@ -477,7 +477,7 @@ LM=10
 16.17579 15.343005
 37.531785 23.445015
 37.616475 21.85002
-ID=Platanista_gangetica_334.A_mandible_dorsal.tiff
+ID=Platanista_gangetica_GERM 334a_mandible_dorsal.tiff
 
 LM=10
 51.011928 19.92237
@@ -490,7 +490,7 @@ LM=10
 21.92127 14.112234
 36.100134 20.535366
 36.140112 18.669726
-ID=Ponotoporia_blainvillei_1925.11.21_mandible_dorsal.tiff
+ID=Pontoporia_blainvillei_1925.11.21_mandible_dorsal.tiff
 
 LM=10
 58.190724 23.047092
@@ -568,7 +568,7 @@ LM=10
 20.701833 16.651813
 42.36944 29.985725
 42.400594 22.929344
-ID=Stenella_clymene_1954.9.9.5_mandible_dorsal.tiff
+ID=Sousa_plumbea_1954.9.9.5_mandible_dorsal.tiff
 
 LM=10
 60.061048 24.877268
@@ -581,7 +581,7 @@ LM=10
 15.550176 18.352824
 37.835748 30.151068
 37.609728 23.460876
-ID=Stenella_clymene_1992.92_mandible_dorsal.tiff
+ID=Sousa_plumbea_1992.92_mandible_dorsal.tiff
 
 LM=10
 60.543912 28.017496
@@ -594,7 +594,7 @@ LM=10
 20.072468 18.020132
 39.911716 31.080452
 40.082744 24.192688
-ID=Stenella_clymene_1970.1509_mandible_dorsal.tiff
+ID=Sousa_plumbea_1970.1509_mandible_dorsal.tiff
 
 LM=10
 65.761625 26.684775
@@ -646,7 +646,7 @@ LM=10
 23.90226 20.481135
 41.75293 29.89303
 41.6617 24.75374
-ID=Stenella_attenuata_347.E_mandible_dorsal.tiff
+ID=Stenella_attenuata_1869.5.21.2_mandible_dorsal.tiff
 
 LM=10
 61.046713 30.468753
@@ -659,7 +659,7 @@ LM=10
 20.764931 22.262627
 40.609403 34.290998
 40.593802 27.76978
-ID=Stenella_coeruleoalba_1938.2.5.1_mandible_dorsal.tiff
+ID=Stenella_euphrosyne_1938.2.5.1_mandible_dorsal.tiff
 
 LM=10
 61.665681 27.590171
@@ -672,7 +672,7 @@ LM=10
 18.717976 20.162652
 40.435225 32.992003
 40.168274 24.480977
-ID=Stenella_coeruleoalba_1961.5.31.1_mandible_dorsal.tiff
+ID=Stenella_euphrosyne_1961.5.31.1_mandible_dorsal.tiff
 
 LM=10
 59.245563 23.569805
@@ -685,7 +685,7 @@ LM=10
 19.529267 16.819914
 39.653652 28.205461
 39.183822 21.377265
-ID=Stenella_coeruleoalba_S.W.194-1_mandible_dorsal.tiff
+ID=Stenella_euphrosyne_SW.1934.1_mandible_dorsal.tiff
 
 LM=10
 63.335418 23.529465
@@ -698,7 +698,7 @@ LM=10
 13.915776 14.59914
 39.122589 30.13014
 38.408163 20.531982
-ID=Steno_bredanensis_1949.1.7.2_mandible_dorsal.tiff
+ID=Steno_bradanensis_1949.1.7.2_mandible_dorsal.tiff
 
 LM=10
 64.733856 25.529064
@@ -711,7 +711,7 @@ LM=10
 19.345392 14.189736
 41.572344 29.937072
 41.759256 21.292392
-ID=Steno_bredanensis_1952.8.1.1_mandible_dorsal.tiff
+ID=Steno_bradanensis_1952.8.1.1_mandible_dorsal.tiff
 
 LM=10
 65.586012 24.495228
@@ -724,7 +724,7 @@ LM=10
 20.873244 15.643224
 43.3233 29.569128
 43.026672 21.716292
-ID=Steno_bredanensis_345.e_mandible_dorsal.tiff
+ID=Steno_bradanensis_GERM 345e_mandible_dorsal.tiff
 
 LM=10
 63.173442 25.107792
@@ -737,7 +737,7 @@ LM=10
 18.613326 15.972036
 40.675866 30.685575
 40.411737 22.497576
-ID=Steno_bredanensis_345.f_mandible_dorsal.tiff
+ID=Steno_bradanensis_GERM 345f_mandible_dorsal.tiff
 
 LM=10
 64.28383 25.026885
@@ -750,7 +750,7 @@ LM=10
 18.005065 16.93315
 41.307565 31.03893
 40.841515 22.65003
-ID=Steno_bredanensis_1954.6.25.2_mandible_dorsal.tiff
+ID=Steno_bradanensis_1954.6.25.2_mandible_dorsal.tiff
 
 LM=10
 56.177004 25.60227
