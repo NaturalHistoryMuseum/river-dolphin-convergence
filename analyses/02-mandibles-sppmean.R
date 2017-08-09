@@ -165,18 +165,6 @@ barplot(pca.lands$pc.summary$sdev^2 /
 # Eigenvectors
 pca.lands$rotation
 
-
-$$$$$$
-# Write a csv file of PC coefficients
-
-#write.csv(pca.lands$rotation, file = "PCscores.csv")
-
-#pca.lands$pc.summary
-
-#pca.lands$summary$stdev ^ 2
-$$$$$
-
-
 # Create dataframe for further analysis
 pc.scores <- data.frame(pca.lands$pc.scores,
                         species = species.data$species,
