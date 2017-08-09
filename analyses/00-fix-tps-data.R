@@ -47,7 +47,8 @@ mlands <- readland.tps(file = "rawdata/dolphin-mandibles-unscaled.TPS",
 # This was an error made in landmarking but has an easy fix
 mandible <- mlands[-c(9, 11, 12, 14), , ]
 
-# Fix issues with names missing tiff. 
+# Some of the image IDs are truncated
+# Change these so they match the other data files
 dimnames(mandible)[[3]]  <- gsub("dorsalf", "dorsal.tiff", dimnames(mandible)[[3]])
 
 # Write out new TPS file
