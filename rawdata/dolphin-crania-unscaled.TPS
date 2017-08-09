@@ -187,7 +187,7 @@ LM=28
 2867.00000 1158.00000
 3797.00000 1424.00000
 4644.00000 1824.00000
-IMAGE=Grampus_griseus_SW1927.25_skull_ventral.tiff
+IMAGE=Grampus_griseus_SW.1927.25_skull_ventral.tiff
 ID=6 
 SCALE=0.017018
 LM=28
@@ -219,7 +219,7 @@ LM=28
 2612.00000 999.00000
 3584.00000 1320.00000
 4519.00000 1700.00000
-IMAGE=Grampus_griseus_SW1929-7_skull_ventral.tiff
+IMAGE=Grampus_griseus_SW.1929.7_skull_ventral.tiff
 ID=7 
 SCALE=0.015684
 LM=28
@@ -251,7 +251,7 @@ LM=28
 2574.00000 868.00000
 3531.00000 1139.00000
 4433.00000 1479.00000
-IMAGE=Grampus_griseus_SW1933-14_skull_ventral.tiff
+IMAGE=Grampus_griseus_SW.1933.14_skull_ventral.tiff
 ID=8 
 SCALE=0.016920
 LM=28
@@ -283,7 +283,7 @@ LM=28
 2712.00000 989.00000
 3737.00000 1266.00000
 4647.00000 1731.00000
-IMAGE=Grampus_griseus_SW1938-7_skull_ventral.tiff
+IMAGE=Grampus_griseus_SW.1938.7_skull_ventral.tiff
 ID=9 
 SCALE=0.016967
 LM=28
@@ -315,7 +315,7 @@ LM=28
 2235.00000 1568.00000
 3404.00000 1810.00000
 4605.00000 1875.00000
-IMAGE=Inia_geoffrensis_1169.b_skull_ventral.tiff
+IMAGE=Inia_geoffrensis_GERM 1169b_skull_ventral.tiff
 ID=10 
 SCALE=0.016004
 LM=28
@@ -443,7 +443,7 @@ LM=28
 2646.00000 1196.00000
 3528.00000 1337.00000
 4364.00000 1596.00000
-IMAGE=Lagenorhynchus_acutus_1926-17_skull_ventral.tiff
+IMAGE=Lagenorhynchus_acutus_SW.1926.17_skull_ventral.tiff
 ID=15 
 SCALE=0.014997
 LM=28
@@ -475,7 +475,7 @@ LM=28
 2546.00000 1406.00000
 3434.00000 1578.00000
 4237.00000 1924.00000
-IMAGE=Lagenorhynchus_acutus_SW.1929-25_skull_ventral.tiff
+IMAGE=Lagenorhynchus_acutus_SW.1929.25_skull_ventral.tiff
 ID=16 
 SCALE=0.014605
 LM=28
@@ -795,7 +795,7 @@ LM=28
 2726.00000 1464.00000
 3034.00000 1523.00000
 3281.00000 1682.00000
-IMAGE=Neophocaena_phocaenoides_1889.8.6.1_skull_ventral.tiff
+IMAGE=Neomeris_phocoenoides_1889.8.6.1_skull_ventral.tiff
 ID=26 
 SCALE=0.015780
 LM=28
@@ -827,7 +827,7 @@ LM=28
 2584.00000 1251.00000
 2872.00000 1270.00000
 3109.00000 1389.00000
-IMAGE=Neophocaena_phocaenoides_1902.6.10.65_skull_ventral.tiff
+IMAGE=Neomeris_phocoenoides_1902.6.10.65_skull_ventral.tiff
 ID=27 
 SCALE=0.015585
 LM=28
@@ -859,7 +859,7 @@ LM=28
 2608.00000 1199.00000
 2886.00000 1268.00000
 3109.00000 1417.00000
-IMAGE=Neophocaena_phocaenoides_1903.9.12.3_skull_ventral.tiff
+IMAGE=Neomeris_phocoenoides_1903.9.12.3_skull_ventral.tiff
 ID=28 
 SCALE=0.015610
 LM=28
@@ -891,7 +891,7 @@ LM=28
 2132.00000 1282.00000
 3366.00000 1486.00000
 4602.00000 1638.00000
-IMAGE=Stenella_clymene_1882.1.2.1_skull_ventral.tiff
+IMAGE=Sousa_plumbea_1882.1.2.1_skull_ventral.tiff
 ID=29 
 SCALE=0.015679
 LM=28
@@ -923,7 +923,7 @@ LM=28
 2871.00000 1262.00000
 3466.00000 1382.00000
 4009.00000 1593.00000
-IMAGE=Phocoenoides_dalli_1957.6.4.1_skull_ventral.tiff
+IMAGE=Phocoena_dalli_1957.6.4.1_skull_ventral.tiff
 ID=30 
 SCALE=0.014712
 LM=28
@@ -955,7 +955,7 @@ LM=28
 3754.00000 1296.00000
 4235.00000 1395.00000
 4678.00000 1579.00000
-IMAGE=Phocoenoides_dalli_1965.1.19.2_skull_ventral.tiff
+IMAGE=Phocoena_dalli_1965.1.19.2_skull_ventral.tiff
 ID=31 
 SCALE=0.014793
 LM=28
@@ -987,7 +987,7 @@ LM=28
 2764.00000 1610.00000
 3243.00000 1709.00000
 3678.00000 1868.00000
-IMAGE=Phocoena_phocoena_SW.1928-49_skull_ventral.tiff
+IMAGE=Phocoena_phocoena_SW.1928.49_skull_ventral.tiff
 ID=33 
 SCALE=0.014383
 LM=28
@@ -1115,7 +1115,7 @@ LM=28
 2146.00000 1382.00000
 3481.00000 1396.00000
 4809.00000 1358.00000
-IMAGE=Platanista_gangetica_334.A_skull_ventral.tiff
+IMAGE=Platanista_gangetica_GERM 334a_skull_ventral.tiff
 ID=37 
 SCALE=0.014179
 LM=28
@@ -1211,7 +1211,7 @@ LM=28
 1998.00000 1289.00000
 3167.00000 1363.00000
 4337.00000 1396.00000
-IMAGE=Pontoporia_blainvillei_39.4529_skull_ventral.tiff
+IMAGE=Pontoporia_blainvillei_1939.4529_skull_ventral.tiff
 ID=40 
 SCALE=0.014180
 LM=28
@@ -1307,7 +1307,7 @@ LM=28
 2498.00000 1262.00000
 3372.00000 1416.00000
 4219.00000 1658.00000
-IMAGE=REP1_Tursiops_aduncus_70.1512_skull_ventral.tiff
+IMAGE=REP1_Tursiops_aduncus_1970.1512_skull_ventral.tiff
 ID=43 
 SCALE=0.014827
 LM=28
@@ -1371,7 +1371,7 @@ LM=28
 2194.00000 1486.00000
 3405.00000 1745.00000
 4599.00000 1993.00000
-IMAGE=Stenella_clymene_1948.3.13.2_skull_ventral.tiff
+IMAGE=Sousa_plumbea_1948.3.13.2_skull_ventral.tiff
 ID=51 
 SCALE=0.015654
 LM=28
@@ -1403,7 +1403,7 @@ LM=28
 2174.00000 1366.00000
 3364.00000 1580.00000
 4544.00000 1797.00000
-IMAGE=Stenella_clymene_1954.9.9.5_skull_ventral.tiff
+IMAGE=Sousa_plumbea_1954.9.9.5_skull_ventral.tiff
 ID=52 
 SCALE=0.015608
 LM=28
@@ -1435,7 +1435,7 @@ LM=28
 2132.00000 1344.00000
 3298.00000 1542.00000
 4461.00000 1713.00000
-IMAGE=Stenella_clymene_1992.92_skull_ventral.tiff
+IMAGE=Sousa_plumbea_1992.92_skull_ventral.tiff
 ID=53 
 SCALE=0.015223
 LM=28
@@ -1467,7 +1467,7 @@ LM=28
 2336.00000 1431.00000
 3451.00000 1577.00000
 4547.00000 1765.00000
-IMAGE=Stenella_clymene_1970.1509_skull_ventral.tiff
+IMAGE=Sousa_plumbea_1970.1509_skull_ventral.tiff
 ID=54 
 SCALE=0.015519
 LM=28
@@ -1595,7 +1595,7 @@ LM=28
 2315.00000 1182.00000
 3245.00000 1353.00000
 4174.00000 1506.00000
-IMAGE=Stenella_attenuata_347.E_skull_ventral.tiff
+IMAGE=Stenella_attenuata_1869.5.21.2_skull_ventral.tiff
 ID=58 
 SCALE=0.015345
 LM=28
@@ -1627,7 +1627,7 @@ LM=28
 2181.00000 1244.00000
 3231.00000 1438.00000
 4292.00000 1631.00000
-IMAGE=Stenella_coeruleoalba_1938.2.5.1_skull_ventral.tiff
+IMAGE=Stenella_euphrosyne_1938.2.5.1_skull_ventral.tiff
 ID=59 
 SCALE=0.015652
 LM=28
@@ -1659,7 +1659,7 @@ LM=28
 2566.00000 1175.00000
 3581.00000 1287.00000
 4583.00000 1436.00000
-IMAGE=Stenella_coeruleoalba_1961.5.31.1_skull_ventral.tiff
+IMAGE=Stenella_euphrosyne_1961.5.31.1_skull_ventral.tiff
 ID=60 
 SCALE=0.015654
 LM=28
@@ -1691,7 +1691,7 @@ LM=28
 2495.00000 1161.00000
 3518.00000 1293.00000
 4522.00000 1431.00000
-IMAGE=Stenella_coeruleoalba_S.W.194-1_skull_ventral.tiff
+IMAGE=Stenella_euphrosyne_SW.1934.1_skull_ventral.tiff
 ID=61 
 SCALE=0.015736
 LM=28
@@ -1723,7 +1723,7 @@ LM=28
 2429.00000 1152.00000
 3694.00000 1347.00000
 4950.00000 1560.00000
-IMAGE=Steno_bredanensis_1949.1.7.2_skull_ventral.tiff
+IMAGE=Steno_bradanensis_1949.1.7.2_skull_ventral.tiff
 ID=62 
 SCALE=0.015589
 LM=28
@@ -1755,7 +1755,7 @@ LM=28
 2187.00000 1434.00000
 3372.00000 1591.00000
 4551.00000 1773.00000
-IMAGE=Steno_bredanensis_1952.8.1.1_skull_ventral.tiff
+IMAGE=Steno_bradanensis_1952.8.1.1_skull_ventral.tiff
 ID=63 
 SCALE=0.015547
 LM=28
@@ -1787,7 +1787,7 @@ LM=28
 2180.00000 1392.00000
 3355.00000 1616.00000
 4538.00000 1832.00000
-IMAGE=Steno_bredanensis_345.e_skull_ventral.tiff
+IMAGE=Steno_bradanensis_GERM 345e_skull_ventral.tiff
 ID=64 
 SCALE=0.015604
 LM=28
@@ -1819,7 +1819,7 @@ LM=28
 2265.00000 1349.00000
 3401.00000 1523.00000
 4545.00000 1618.00000
-IMAGE=Steno_bredanensis_345f_skull_ventral.tiff
+IMAGE=Steno_bradanensis_GERM 345f_skull_ventral.tiff
 ID=65 
 SCALE=0.015557
 LM=28
@@ -1851,7 +1851,7 @@ LM=28
 2246.00000 1460.00000
 3470.00000 1641.00000
 4701.00000 1799.00000
-IMAGE=Steno_bredanensis_1954.6.25.2_skull_ventral.tiff
+IMAGE=Steno_bradanensis_1954.6.25.2_skull_ventral.tiff
 ID=66 
 SCALE=0.015621
 LM=28
@@ -2171,7 +2171,7 @@ LM=28
 3065.00000 892.00000
 3976.00000 1125.00000
 4806.00000 1443.00000
-IMAGE=Delphinapterus_leucas_S.W.1932-60_skull_ventral.tiff
+IMAGE=Delphinapterus_leucas_SW.1932.60_skull_ventral.tiff
 ID=2 
 SCALE=0.011603
 LM=28
@@ -2235,7 +2235,7 @@ LM=28
 2220.00000 970.00000
 3167.00000 1312.00000
 4039.00000 1746.00000
-IMAGE=Grampus_griseus_SW1940-6_skull_ventral.tiff
+IMAGE=Grampus_griseus_SW.1940.6_skull_ventral.tiff
 ID=4 
 SCALE=0.016943
 LM=28
@@ -2363,7 +2363,7 @@ LM=28
 2753.00000 1595.00000
 3174.00000 1703.00000
 3538.00000 1880.00000
-IMAGE=Phocoena_phocoena_SW.1933-50_skull_ventral.tiff
+IMAGE=Phocoena_phocoena_SW.1933.50_skull_ventral.tiff
 ID=8 
 SCALE=0.016390
 LM=28
