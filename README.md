@@ -5,11 +5,11 @@ This repository contains all the code and data used in the manuscript [Link to f
 
 ## Data
 These analyses are based on photographs of specimens from the Natural History Museum, London. 
-All the photographs are available [here](add link). 
+All the photographs are available from the [NHM Data Portal](http://dx.doi.org/10.5519/0082274). 
 We then added landmarks to these to create TPS files that are used in all subsequent analyses. 
-The TPS files are available in this repo (unscaled in the `rawdata/` folder and scaled with some landmarks removed in the `data/` folder), but can also be downloaded from the NHM Data Portal. [add link here]().
+The TPS files are available in this repo (unscaled in the `rawdata/` folder and scaled with some landmarks removed in the `data/` folder), but can also be downloaded from the [NHM Data Portal](http://dx.doi.org/10.5519/0082274).
 
-If you use the data please cite the Data Portal DOI: add DOI.
+If you use the data please cite the Data Portal DOI: 10.5519/0082274.
 
 
 ## Analyses
