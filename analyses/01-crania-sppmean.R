@@ -210,8 +210,8 @@ aov.phylo(pcscore3 ~ group, whaletree, nsim = 1000)
 # Stayton's distance-based convergence metrics
 #----------------------------------------------
 # Create data object for convevol functions
-# This selects just the first three PCs
-pc.data <- as.matrix(array(pc.scores[, 1:3]))
+# This selects just the first four PCs
+pc.data <- as.matrix(array(pc.scores[, 1:4]))
 
 # Select tips that are river dolphins
 rivertips <- c("Inia_geoffrensis",
