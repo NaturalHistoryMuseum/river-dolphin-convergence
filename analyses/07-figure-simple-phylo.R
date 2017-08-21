@@ -4,7 +4,7 @@
 # Modified by Natalie Cooper 2017
 #-------------------------------------
 # Load ape
-library (ape)
+library(ape)
 
 # List the colours to use
 colour.list <- c("deepskyblue3", "black", "red1")
