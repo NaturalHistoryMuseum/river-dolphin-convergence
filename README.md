@@ -27,15 +27,16 @@ All code used to run analyses and make figures is included in the `analyses/` fo
 ## Session Info
 For reproducibility purposes, here is the output of `devtools:session_info()` used to perform the analyses in the publication.
 
-Session info ------------------------------------------------------------------------
- setting  value                       
- version  R version 3.4.1 (2017-06-30)
- system   x86_64, darwin15.6.0        
- ui       RStudio (1.0.153)           
- language (EN)                        
- collate  en_IE.UTF-8                 
- tz       Europe/Dublin               
- date     2017-08-21                  
+    Session info ------------------------------------------------------------------------
+    
+    setting  value                       
+    version  R version 3.4.1 (2017-06-30)
+    system   x86_64, darwin15.6.0        
+    ui       RStudio (1.0.153)           
+    language (EN)                        
+    collate  en_IE.UTF-8                 
+    tz       Europe/Dublin               
+    date     2017-08-21                  
 
 Packages ----------------------------------------------------------------------------
  package           * version  date       source        
