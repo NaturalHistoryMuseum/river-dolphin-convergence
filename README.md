@@ -16,3 +16,85 @@ If you use the data please cite the Data Portal DOI: add DOI.
 Analyses consisted of simple Procrustes analysis etc. 
 All code for the analyses in the paper and supplemental information can be found [here - add link](add link)
 
+## Session Info
+For reproducibility purposes, here is the output of `devtools:session_info()` used to perform the analyses in the publication.
+
+Session info ------------------------------------------------------------------------
+ setting  value                       
+ version  R version 3.4.1 (2017-06-30)
+ system   x86_64, darwin15.6.0        
+ ui       RStudio (1.0.153)           
+ language (EN)                        
+ collate  en_IE.UTF-8                 
+ tz       Europe/Dublin               
+ date     2017-08-21                  
+
+Packages ----------------------------------------------------------------------------
+ package           * version  date       source        
+ animation           2.5      2017-03-30 CRAN (R 3.4.0)
+ ape               * 4.1      2017-02-14 CRAN (R 3.4.0)
+ BAMMtools         * 2.1.6    2017-02-03 CRAN (R 3.4.0)
+ base              * 3.4.1    2017-07-07 local         
+ bitops              1.0-6    2013-08-17 CRAN (R 3.4.0)
+ caTools             1.17.1   2014-09-10 CRAN (R 3.4.0)
+ cluster             2.0.6    2017-03-10 CRAN (R 3.4.1)
+ clusterGeneration   1.3.4    2015-02-18 CRAN (R 3.4.0)
+ coda                0.19-1   2016-12-08 CRAN (R 3.4.0)
+ combinat            0.0-8    2012-10-29 CRAN (R 3.4.0)
+ compiler            3.4.1    2017-07-07 local         
+ convevol          * 1.0      2014-12-22 CRAN (R 3.4.0)
+ datasets          * 3.4.1    2017-07-07 local         
+ deSolve             1.20     2017-07-14 CRAN (R 3.4.1)
+ devtools            1.13.3   2017-08-02 CRAN (R 3.4.1)
+ digest              0.6.12   2017-01-27 CRAN (R 3.4.0)
+ expm                0.999-2  2017-03-29 CRAN (R 3.4.0)
+ fastmatch           1.1-0    2017-01-28 CRAN (R 3.4.0)
+ gdata               2.18.0   2017-06-06 CRAN (R 3.4.0)
+ geiger            * 2.0.6    2015-09-07 CRAN (R 3.4.0)
+ geomorph          * 3.0.5    2017-08-09 CRAN (R 3.4.1)
+ gplots              3.0.1    2016-03-30 CRAN (R 3.4.0)
+ graphics          * 3.4.1    2017-07-07 local         
+ grDevices         * 3.4.1    2017-07-07 local         
+ grid                3.4.1    2017-07-07 local         
+ gtools              3.5.0    2015-05-29 CRAN (R 3.4.0)
+ htmltools           0.3.6    2017-04-28 cran (@0.3.6) 
+ htmlwidgets         0.9      2017-07-10 cran (@0.9)   
+ httpuv              1.3.5    2017-07-04 cran (@1.3.5) 
+ igraph              1.1.2    2017-07-21 CRAN (R 3.4.1)
+ jpeg                0.1-8    2014-01-23 CRAN (R 3.4.0)
+ jsonlite            1.5      2017-06-01 CRAN (R 3.4.0)
+ KernSmooth          2.23-15  2015-06-29 CRAN (R 3.4.1)
+ knitr               1.17     2017-08-10 cran (@1.17)  
+ lattice             0.20-35  2017-03-25 CRAN (R 3.4.1)
+ magrittr            1.5      2014-11-22 CRAN (R 3.4.0)
+ maps              * 3.2.0    2017-06-08 CRAN (R 3.4.0)
+ MASS              * 7.3-47   2017-02-26 CRAN (R 3.4.1)
+ Matrix              1.2-10   2017-05-03 CRAN (R 3.4.1)
+ memoise             1.1.0    2017-04-21 CRAN (R 3.4.0)
+ methods           * 3.4.1    2017-07-07 local         
+ mime                0.5      2016-07-07 CRAN (R 3.4.0)
+ mnormt              1.5-5    2016-10-15 CRAN (R 3.4.0)
+ msm                 1.6.4    2016-10-04 CRAN (R 3.4.0)
+ mvtnorm             1.0-6    2017-03-02 CRAN (R 3.4.0)
+ nlme                3.1-131  2017-02-06 CRAN (R 3.4.1)
+ numDeriv            2016.8-1 2016-08-27 CRAN (R 3.4.0)
+ parallel            3.4.1    2017-07-07 local         
+ phangorn            2.2.0    2017-04-03 CRAN (R 3.4.0)
+ phytools          * 0.6-20   2017-07-28 CRAN (R 3.4.1)
+ pkgconfig           2.0.1    2017-03-21 CRAN (R 3.4.0)
+ plotrix             3.6-5    2017-05-10 CRAN (R 3.4.0)
+ quadprog            1.5-5    2013-04-17 CRAN (R 3.4.0)
+ R6                  2.2.2    2017-06-17 CRAN (R 3.4.0)
+ Rcpp                0.12.12  2017-07-15 CRAN (R 3.4.1)
+ rgl               * 0.98.1   2017-03-08 cran (@0.98.1)
+ rstudioapi          0.6      2016-06-27 CRAN (R 3.4.0)
+ scatterplot3d       0.3-40   2017-04-22 CRAN (R 3.4.0)
+ shiny               1.0.3    2017-04-26 cran (@1.0.3) 
+ splines             3.4.1    2017-07-07 local         
+ stats             * 3.4.1    2017-07-07 local         
+ subplex             1.4-1    2017-07-18 CRAN (R 3.4.1)
+ survival            2.41-3   2017-04-04 CRAN (R 3.4.1)
+ tools               3.4.1    2017-07-07 local         
+ utils             * 3.4.1    2017-07-07 local         
+ withr               2.0.0    2017-07-28 CRAN (R 3.4.1)
+ xtable              1.8-2    2016-02-05 cran (@1.8-2) 
