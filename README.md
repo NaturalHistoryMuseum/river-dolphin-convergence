@@ -3,6 +3,8 @@ Author(s): Charlotte E Page and [Natalie Cooper](mailto:natalie.cooper.@nhm.ac.u
 
 This repository contains all the code and data used in the manuscript [Link to final published pdf will be here]().
 
+[![DOI](https://zenodo.org/badge/98415211.svg)](https://zenodo.org/badge/latestdoi/98415211)
+
 ## Data
 These analyses are based on photographs of specimens from the Natural History Museum, London. 
 All the photographs are available from the [NHM Data Portal](http://dx.doi.org/10.5519/0082274). 
