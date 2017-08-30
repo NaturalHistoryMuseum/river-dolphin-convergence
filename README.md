@@ -6,10 +6,10 @@ This repository contains all the code and data used in the manuscript [Link to f
 To cite the paper: 
 > Charlotte E. Page \& Natalie Cooper. 2017. Morphological convergence in 'river dolphin' skulls: a disparate grouping justified. [Journal tbc].
 
-[![DOI](https://zenodo.org/badge/98415211.svg)](https://zenodo.org/badge/latestdoi/98415211)
-
 To cite this repo: 
 > Charlotte E. Page \& Natalie Cooper. 2017. GitHub: NaturalHistoryMuseum/river-dolphin-convergence: Release for publication. http://dx.doi.org/10.5281/zenodo.846278.
+
+[![DOI](https://zenodo.org/badge/98415211.svg)](https://zenodo.org/badge/latestdoi/98415211)
 
 ## Data
 These analyses are based on photographs of specimens from the Natural History Museum, London. 
