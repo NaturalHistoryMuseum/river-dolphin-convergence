@@ -116,3 +116,11 @@ For reproducibility purposes, here is the output of `devtools:session_info()` us
     utils             * 3.4.1    2017-07-07 local         
     withr               2.0.0    2017-07-28 CRAN (R 3.4.1)
     xtable              1.8-2    2016-02-05 cran (@1.8-2) 
+
+## Checkpoint for reproducibility
+To rerun all the code with packages as they existed on CRAN at time of our analyses we recommend using the `checkpoint` package, and running this code prior to the analysis:
+
+```{r}
+checkpoint("2017-08-17")
+```
+
