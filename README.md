@@ -1,10 +1,10 @@
 # Quantifying convergence in river dolphins
 Author(s): Charlotte E Page and [Natalie Cooper](mailto:natalie.cooper.@nhm.ac.uk)  
 
-This repository contains all the code and data used in the manuscript [Link to final published pdf will be here]().
+This repository contains all the code and data used in the [PeerJ paper](https://doi.org/10.7717/peerj.4090).
 
 To cite the paper: 
-> Charlotte E. Page \& Natalie Cooper. 2017. Morphological convergence in 'river dolphin' skulls: a disparate grouping justified. [Journal tbc].
+> Charlotte E. Page \& Natalie Cooper. 2017. Morphological convergence in 'river dolphin' skulls. PeerJ, 5: e4090. https://doi.org/10.7717/peerj.4090.
 
 To cite this repo: 
 > Charlotte E. Page \& Natalie Cooper. 2017. GitHub: NaturalHistoryMuseum/river-dolphin-convergence: Release for publication. http://dx.doi.org/10.5281/zenodo.846278.
